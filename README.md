@@ -1,3 +1,8 @@
+[![Build Status](https://img.shields.io/github/forks/allfro/sploitego.svg)](https://github.com/allfro/sploitego)
+[![Build Status](https://img.shields.io/github/stars/allfro/sploitego.svg)](https://github.com/allfro/sploitego)
+[![License](https://img.shields.io/github/license/allfro/sploitego.svg)](https://github.com/allfro/sploitego)
+[![Rawsec's CyberSecurity Inventory](https://inventory.rawsec.ml/img/badges/Rawsec-inventoried-FF5050_flat.svg)](https://inventory.rawsec.ml/tools.html#Sploitego)
+
 Sploitego - Maltego's (Local) Partner in Crime
 ==============================================
 
